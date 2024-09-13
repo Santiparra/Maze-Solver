@@ -56,3 +56,4 @@ class Cell:
       filler_color = "gray"
     line = Line(Point(x_center, y_center), Point(x_center2, y_center2))
     self.win.draw_line(line, filler_color)
+
